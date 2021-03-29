@@ -23,7 +23,7 @@ pefile==2017.8.1
 Pillow==4.2.1
 post==0.0.13
 public==0.0.38
-Pygments==2.2.0
+Pygments==2.7.4
 pymongo==3.4.0
 PyMySQL==0.7.11
 pytesseract==0.1.7
